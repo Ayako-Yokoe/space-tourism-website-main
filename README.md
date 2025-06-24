@@ -25,9 +25,9 @@ Users should be able to:
 
 ### Screenshot
 
-<img src="./starter-code/assets/375px.jpeg" alt="375px mobile" width="300" height="auto">
-<img src="./starter-code/assets/500px.jpeg" alt="500px tablet" width="400" height="auto">
-<img src="./starter-code/assets/1440px.jpeg" alt="1440px desktop" width="600" height="auto">
+<img src="assets/375px.jpeg" alt="375px mobile" width="300" height="auto">
+<img src="assets/500px.jpeg" alt="500px tablet" width="400" height="auto">
+<img src="assets/1440px.jpeg" alt="1440px desktop" width="600" height="auto">
 
 ### Links
 
